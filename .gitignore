@@ -1,0 +1,9 @@
+# The ignore file list - Thanos Snap
+#
+# 1. Ignore any pre compiled version of files and the directories which contain them, like bin/ tests/
+#
+
+bin/
+tests/
+test/
+test*
